@@ -2,7 +2,21 @@ body {
     background-color: black;
 }
 
-.font {
+p {
     color: white;
     font-size: large;
+    font-family: Pathway Gothic One;
 }
+
+h1 {
+    font-family: Metal Mania;
+    color: white;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
